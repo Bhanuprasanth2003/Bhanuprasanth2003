@@ -28,12 +28,12 @@ I continuously deepen my expertise through hands-on engineering, research-orient
 `Python` · `C/C++` · `SQL` · `JavaScript` · `Java`
 
 ### **Machine Learning & Data Science**
-`Pandas` · `NumPy` · `Scikit-learn` · `SciPy` · `XGBoost` · `TensorFlow` · `PyTorch`  
+`Pandas` · `NumPy` · `Scikit-learn` · `SciPy`  · `TensorFlow` · `PyTorch`  
 `Feature Engineering` · `Statistical Modeling` · `ML Pipelines`  
 
 ### **Data Engineering**
 `SQLAlchemy` · `ETL/ELT Design` · `Data Modeling`  
-`Schema Design` · `API Integrations` · `Logistics Data Systems`
+`Schema Design` · `API Integrations` 
 
 ### **Databases**
 `MS SQL Server` · `PostgreSQL` · `MongoDB` · `SurrealDB`
