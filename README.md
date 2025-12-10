@@ -28,7 +28,7 @@ I continuously deepen my expertise through hands-on engineering, research-orient
 `Python` · `C/C++` · `SQL` · `JavaScript` · `Java`
 
 ### **Machine Learning & Data Science**
-`Pandas` · `NumPy` · `Scikit-learn` · `SciPy` · `XGBoost`  
+`Pandas` · `NumPy` · `Scikit-learn` · `SciPy` · `XGBoost` · `TensorFlow` · `PyTorch`  
 `Feature Engineering` · `Statistical Modeling` · `ML Pipelines`  
 
 ### **Data Engineering**
